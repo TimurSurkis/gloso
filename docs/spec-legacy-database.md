@@ -1,5 +1,7 @@
 # PostgreSQL Gloso — локальный MVP
 
+> **Исторический документ.** Это не актуальная схема. Решением D-069 Zadarma и SMSAPI заменены на Twilio; остальное содержание не актуализировалось и может противоречить текущему проекту.
+
 Источники истины: [`spec-legacy-architecture.md`](spec-legacy-architecture.md), [`../backend/src/db/schema.ts`](../backend/src/db/schema.ts), SQL-миграции в [`../backend/drizzle/`](../backend/drizzle/). ORM — Drizzle, PostgreSQL 16+. Все временные метки — `timestamptz`, приложение возвращает ISO 8601. Рабочая зона расписания — `Europe/Warsaw`.
 
 ## Допустимые данные

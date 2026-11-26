@@ -1,5 +1,7 @@
 # Specyfikacja Projektu: Inteligentny Asystent Głosowy dla Warsztatów Samochodowych (Gloso)
 
+> **Dokument historyczny.** To nie jest aktualna specyfikacja. Decyzją D-069 Zadarma i SMSAPI zostały zastąpione przez Twilio; pozostała treść nie została zaktualizowana i może być sprzeczna z obecnym projektem.
+
 Źródłem prawdy dla warunków świadczenia usługi jest [`regulamin.html`](../regulamin.html) (wersja 1.2 z dnia 19.11.2026 r.). W razie rozbieżności między Regulaminem a indywidualną umową pierwszeństwo ma umowa. Dokument opisuje docelową implementację, ramy prawno-biznesowe oraz zakres Etapu 1 (MVP), a nie potwierdzenie produkcyjnego uruchomienia wszystkich integracji. Szczegółowa architektura techniczna Etapu 1 znajduje się w `spec-legacy-architecture.md`.
 
 ---
